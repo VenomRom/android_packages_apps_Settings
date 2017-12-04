@@ -14,5 +14,8 @@
  <resources>
    <color name="accent_picker_white_accent">@android:color/white</color>
    <color name="accent_picker_dark_accent">@android:color/black</color>
+   
+   <!-- Launcher icon background -->
+    <color name="ic_settings_background">#343434</color>
 
 </resources>

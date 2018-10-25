@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2018 Superior OS Project
+     Copyright (C) 2018 VenomRom Project
 	 Copyright (C) 2018 Project dotOS
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,10 +14,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- About phone screen, Superior OS version -->
-    <string name="superior_version">SuperiorOS version</string>
-    <string name="superior_version_default">Unknown</string>
-    <string name="keywords_superior_version">SuperiorOS version, superior version</string>
+    <!-- About phone screen, VenormRom version -->
+    <string name="venom_version">VenomRom version</string>
+    <string name="venom_version_default">Unknown</string>
+    <string name="keywords_venom_version">VenomRom version, venomrom version</string>
 
     <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>

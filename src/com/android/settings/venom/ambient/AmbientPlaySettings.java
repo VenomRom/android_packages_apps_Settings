@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.superior.ambient;
+package com.android.settings.venom.ambient;
 
 import android.content.Context;
 import android.content.Intent;
@@ -37,7 +37,7 @@ import android.content.BroadcastReceiver;
 
 import com.android.settings.superior.ambient.history.AmbientPlayHistoryPreference;
 
-import com.android.internal.util.superior.ambient.play.AmbientPlayHistoryManager;
+import com.android.internal.util.venom.ambient.play.AmbientPlayHistoryManager;
 
 public class AmbientPlaySettings extends SettingsPreferenceFragment implements CompoundButton.OnCheckedChangeListener {
 
@@ -93,7 +93,7 @@ public class AmbientPlaySettings extends SettingsPreferenceFragment implements C
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.SUPERIOR;
+        return MetricsEvent.VENOM;
     }
 
     private boolean isEnabled() {
